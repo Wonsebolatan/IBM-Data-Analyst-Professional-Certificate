@@ -3,7 +3,7 @@
 This repository contains all my work and projects from the **IBM Data Analyst Professional Certificate** course offered by IBM via Coursera. The course provided hands-on experience with industry-relevant tools, techniques, and technologies used in the field of data analytics. 
 
 ## Course Highlights:
-- **Modules Completed**: 11 
+- **Modules Completed**: 10 
   - Introduction to Data Analytics
   - Excel Basics for Data Analysis
   - Data Visualization and Dashboards with Excel and Cognos
