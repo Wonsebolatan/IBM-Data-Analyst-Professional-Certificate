@@ -7,7 +7,7 @@ This folder contains labs and projects focused on creating visualizations and da
 - Designed and shared interactive dashboards using Cognos Analytics.
 
 ## Subfolders:
-- `project`: Contains all projects and labs for hands-on practice.
+- `Project`: Contains all projects and labs for hands-on practice.
 
 ## Skills Acquired:
 - Data Storytelling
