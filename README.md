@@ -27,7 +27,7 @@ This repository contains all my work and projects from the **IBM Data Analyst Pr
 - Each module folder contains:
   - **Certificates** for completion
   - **Cheat Sheets** (where applicable)
-  - **Projects** and **Labs** for hands-on exercises
+  - **Projects** and **Labs** for hands-on exercises (where applicable)
 - Subfolders include:
   - `cheat sheet`: Quick references
   - `Project`: Final projects and lab work
