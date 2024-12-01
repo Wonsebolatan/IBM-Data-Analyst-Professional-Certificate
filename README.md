@@ -14,7 +14,7 @@ This repository contains all my work and projects from the **IBM Data Analyst Pr
   - Data Visualization with Python
   - IBM Data Analyst Capstone Project
   - Generative AI: Enhance your Data Analytics Career
--
+
 - **Key Skills Learned**:
   - Data Wrangling, Analysis, and Visualization
   - Python Programming (Pandas, Numpy, Matplotlib, Plotly)
