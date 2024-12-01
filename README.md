@@ -29,7 +29,7 @@ This repository contains all my work and projects from the **IBM Data Analyst Pr
   - **Cheat Sheets** (where applicable)
   - **Projects** and **Labs** for hands-on exercises (where applicable)
 - Subfolders include:
-  - `cheat sheet`: Quick references
+  - `Cheat Sheet`: Quick references
   - `Project`: Final projects and lab work
 
 This repository demonstrates my journey and mastery of essential data analytics concepts, tools, and techniques. Feel free to explore the folders for detailed insights into my learning process!
